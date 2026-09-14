@@ -1,0 +1,8 @@
+{
+  "id": "09",
+  "name": "09-cpp-cad-geometry-kernel",
+  "title": "Real-Time Parametric CAD Geometry Kernel",
+  "language": "C++",
+  "domain": "Computational Geometry & CAD/CAM Kernel",
+  "description": "High-performance C++20 3D B-Rep (Boundary Representation) and CSG parametric modeling kernel supporting boolean solids, NURBS curves, and mesh tessellation."
+}
