@@ -1,7 +1,7 @@
-# 09 - Parametric 3D CAD B-Rep & CSG Solid Geometry Kernel (C++20)
+# Parametric 3D CAD B-Rep & CSG Solid Geometry Kernel (C++20)
 
 ## Executive Overview
-A high-performance 3D geometric modeling kernel written in **modern C++20**. It implements **Boundary Representation (B-Rep)** and **Constructive Solid Geometry (CSG)** primitives (boxes, cylinders, spheres), signed tetrahedral volume integrals, analytical surface area calculations, and tessellated **Wavefront OBJ** export.
+A high-performance 3D geometric modelling kernel written in **modern C++20**. It implements **Boundary Representation (B-Rep)** and **Constructive Solid Geometry (CSG)** primitives (boxes, cylinders, spheres), signed tetrahedral volume integrals, analytical surface area calculations, and tessellated **Wavefront OBJ** export.
 
 ## Geometric Kernel Pipeline
 
